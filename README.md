@@ -31,6 +31,3 @@ README.md
 2. Review the experiment parameters, hypotheses, training results, evaluation results, and conclusions.
 3. Open `reports/raport_koncowy.pdf` for the final written summary.
 
-## Status
-
-Completed team analysis. The repository is ready as a report-and-results archive. It would become stronger if the original experiment notebook or scripts were added later.
