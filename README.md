@@ -10,9 +10,6 @@ A team machine learning experiment focused on comparing reinforcement learning s
 - CSV-based result analysis
 - PDF reporting
 
-## Repository Name
-
-Recommended GitHub repository name: `frozenlake-qlearning-study`
 
 ## Project Structure
 
